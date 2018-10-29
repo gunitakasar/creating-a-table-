@@ -1,0 +1,6 @@
+show databases;
+use college database;
+create a student table (sid int(20) primary key,sname char(20),scontact int(10),sadd char(20);
+desc student table;
+insert into student table values(1,gunita,56125632,vasai road);
+show*from table;
